@@ -13,3 +13,8 @@ function draw() {
 function mouseMoved() {
   on = true;
 }
+
+function windowResized() {
+
+  resizeCanvas(windowWidth, windowHeight);
+}
