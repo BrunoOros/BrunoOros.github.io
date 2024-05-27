@@ -373,7 +373,7 @@ input[type="text"]{
 
 
 /* si la pantalla es igual o menor a 390px se aplica */
-@media (max-width:430px){
+@media (max-width:330px){
     
     #fondo{
         background-image: none;
